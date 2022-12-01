@@ -129,6 +129,17 @@
     font-family: 'Titillium Web', sans-serif;
 }
 
-.bottom{
+.bottom {
     margin-top: 35px;
+}
+
+.footer {
+    font-family: 'Neue Machina';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    color: #FFFFFF;
+    color: white;
+    margin-top: 100px;
+    margin-left: 60px;
 }
