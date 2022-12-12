@@ -1,0 +1,13 @@
+.container{
+    background-image: url(./img/docs_1600px.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+img{
+    margin-top: 10%;
+    width: 510px;
+    height: 722px;
+    margin-left: 35%;
+}
