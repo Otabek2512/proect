@@ -6,8 +6,9 @@
 }
 
 img{
-    margin-top: 10%;
-    width: 510px;
-    height: 722px;
+    margin-top: 11%;
+    width: 550px;
+    height: 762px;
     margin-left: 35%;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
 }
