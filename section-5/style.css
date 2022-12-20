@@ -7,7 +7,7 @@
 .container {
     margin: 0 auto;
     max-width: 1400px;
-    background: rgb(0, 0, 0);
+    background: rgb(18, 17, 40);
     height: 100vh;
 }
 
@@ -71,13 +71,39 @@
 }
 
 
-.warapper_box {
+.wrapper_box {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    flex-direction: column;
+    margin-top: 10px;
+    margin-left: 50px;
 }
 
 .wrapper_box h1 {
     color: white;
+}
+
+.defined {
+    margin-top: 100px;
+    width: 271px;
+    height: 406px;
+}
+
+.img {
+    width: 261px;
+    height: 396px;
+    margin-left: -10px;
+}
+
+.h1Defined {
+    font-family: 'Neue Machina';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 97%; 
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 11%;
+    margin-left: 80px;
 }
